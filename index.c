@@ -13,6 +13,7 @@ int isFull(char board[3][3]);
 void makeAIMove(char board[3][3], char player);
 
 // Main function
+//Where we will put and implement all logic
 int main() {
     char board[3][3] = {
         {EMPTY, EMPTY, EMPTY},
