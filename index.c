@@ -59,6 +59,8 @@ int main() {
     return 0;
 }
 
+//inializing all the function
+
 // Print the board
 void printBoard(char board[3][3]) {
     printf("\n");
