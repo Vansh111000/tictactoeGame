@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #define PLAYER_X 'X'
 #define PLAYER_O 'O'
