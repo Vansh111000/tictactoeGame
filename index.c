@@ -6,7 +6,6 @@
 #define PLAYER_O 'O'
 #define EMPTY ' '
 
-//Intializing
 void printBoard(char board[3][3]);
 void makeMove(char board[3][3], char player);
 int checkWin(char board[3][3]);
